@@ -1,0 +1,5 @@
+﻿  Rank.cpp
+c:\users\82108\desktop\프로젝트\tetris_rank\tetris_rank\rank.h(8): error C2143: 구문 오류: ';'이(가) '<' 앞에 없습니다.
+c:\users\82108\desktop\프로젝트\tetris_rank\tetris_rank\rank.h(8): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\82108\desktop\프로젝트\tetris_rank\tetris_rank\rank.h(8): error C2238: ';' 앞에 예기치 않은 토큰이 있습니다.
+c:\users\82108\desktop\프로젝트\tetris_rank\tetris_rank\rank.cpp(17): error C2065: 'uData': 선언되지 않은 식별자입니다.
